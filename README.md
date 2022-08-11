@@ -1,6 +1,7 @@
 ## Hi there 👋
 * 🏫 I'm currently studying at NCHU(National Chung Hsing University)
-* 👩🏻‍💻 Major in Management of Information Systems.
+* 🤖 Major in Management of Information Systems.
+* 👩🏻‍💻 I have been working as an intern at NCHC(National Center for High-performance Computing)
 
 * ⚡ Languages and Tools
 
