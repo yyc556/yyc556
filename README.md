@@ -3,7 +3,7 @@
 * 🤖 Major in Management of Information Systems
 * 👩🏻‍💻 I'm working as an intern at NCHC(National Center for High-performance Computing)
 
-* ⚡ Languages and Tools
+* ⚡ Languages and Tools:
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/> </a> 
