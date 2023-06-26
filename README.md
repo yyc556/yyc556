@@ -1,5 +1,5 @@
 ## Hi there 👋
-* 🏫 I'm currently studying at NCHU(National Chung Hsing University)
+* 🏫 I graduated from NCHU(National Chung Hsing University)
 * 🤖 Major in Management of Information Systems
 * 👩🏻‍💻 I'm working as a research assistant at NCHC(National Center for High-performance Computing)
 
