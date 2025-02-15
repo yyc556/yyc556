@@ -1,5 +1,5 @@
 ## Hi there 👋
-* 🏫 I'm a master student at  at National Cheng Kung University (NCKU)
+* 🏫 I'm a master student at National Cheng Kung University (NCKU)
 * 🤖 Major in Management of Information Systems
 * 👩🏻‍💻 I'm working as a research assistant at NCHC(National Center for High-performance Computing)
 
